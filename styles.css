@@ -133,3 +133,16 @@ body {
         flex-direction: row;
     }
 }
+/*==========================footer==============================*/
+#footer {
+    margin-top: 30px;
+    background-color: #ddd;
+    padding: 20px;
+}
+.footer__nav {
+    text-align: right;
+}
+.footer__text {
+    text-align: right;
+    margin-top: 10px;
+}
